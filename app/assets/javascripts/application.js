@@ -13,4 +13,16 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require bootstrap.min
+//= require jquery.easing.1.3.min
+//= require jquery.counterup.min
+//= require wow.min
+//= require bootstrap-hover-dropdown.min
+//= require jquery.mixitup.min
+//= require jquery.mb.YTPlayer
+//= require jquery.flexslider-min
+//= require jquery.stellar.min
+//= require owl.carousel.min
+//= require jquery.magnific-popup.min
+//= require custom
 //= require_tree .
