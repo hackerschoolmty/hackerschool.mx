@@ -391,7 +391,7 @@ padding-left: 60px !important;
 
 /***intro-text*****/
 .intro-wrap{
-    background-color: #eee;
+    background-color: #f9f9f9;
 }
 
 /************heading section******/
@@ -439,7 +439,7 @@ padding-left: 60px !important;
     text-align: center;
     color:#68B84C;
     font-size: 36px;
-    background-color: #eee;
+    background-color: #EFEFEF;
     margin-bottom: 25px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -938,7 +938,7 @@ input[type="color"]:focus,
 /**********testimonials***/
 
 #testimonials{
-    background: url('../img/banner-2.jpg') no-repeat center center fixed;
+    background: asset-url("testimonials-bg.jpg") no-repeat center center fixed;
     width: 100%;
     padding:120px 0;
     -webkit-background-size: cover;
